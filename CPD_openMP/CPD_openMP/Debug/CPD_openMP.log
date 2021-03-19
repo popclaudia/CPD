@@ -1,0 +1,5 @@
+﻿  SimpleExample.cpp
+C:\Users\Pop Claudia\Desktop\AnIV - Sem. II\CPD\CPD_openMP\CPD_openMP\SimpleExample.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Pop Claudia\Desktop\AnIV - Sem. II\CPD\CPD_openMP\CPD_openMP\SimpleExample.cpp(14,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pop Claudia\Desktop\AnIV - Sem. II\CPD\CPD_openMP\CPD_openMP\SimpleExample.cpp(15,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CPD_openMP.vcxproj -> C:\Users\Pop Claudia\Desktop\AnIV - Sem. II\CPD\CPD_openMP\Debug\CPD_openMP.exe
